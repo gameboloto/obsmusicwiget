@@ -1,5 +1,5 @@
 ## Виджет OBS для показа названия песни
-[gameboloto.fun/obsmusicw.github.io](https://gameboloto.fun/obsmusicw.github.io/)  
+[gameboloto.fun/obsmusicwiget](https://gameboloto.fun/obsmusicwiget/)  
  В OBS добавьте источник "Браузер" и укажите URL вашего сайта в формате:  
  ```https://gameboloto.fun/obsmusicw.github.io/index.html?user=username&token=api_token```  
  Замените **username** на имя пользователя Last.fm.  
@@ -12,7 +12,7 @@
 ----
 
 ## OBS widget for displaying song titles  
-[https://gameboloto.fun/obsmusicw.github.io/](https://gameboloto.fun/obsmusicw.github.io/)  
+[https://gameboloto.fun/obsmusicwiget/](https://gameboloto.fun/obsmusicwiget/)  
 
 In OBS, add a "Browser" source and enter your site URL in the following format:  
 ```https://gameboloto.fun/obsmusicw.github.io/index.html?user=username&token=api_token```  
